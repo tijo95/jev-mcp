@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# API keys (NEVER commit these)
+*.key
+*.pem
+credentials.json
+
+# Test artifacts
+test_result.txt
+curl_result.txt
+run_test.bat
+run_curl.bat
