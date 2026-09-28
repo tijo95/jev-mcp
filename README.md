@@ -1,4 +1,4 @@
-# Jev MCP — Local MCP Server for TypeSafe Jev
+# Jev MCP 
 
 A lightweight, zero-dependency **local stdio MCP server** that wraps the [TypeSafe Jev](https://docs.typesafe.ai/) decision API. It exposes the 6 `jev_*` judgment tools to any MCP client (VS Code, Cursor, Claude Desktop, etc.).
 
